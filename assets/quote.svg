@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="t d">
+<title id="t">Bons produtos não precisam parecer complicados.</title><desc id="d">Bons produtos não precisam parecer complicados.</desc>
+<defs><radialGradient id="q" cx="0.5" cy="0.5" r="0.6"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.12"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient></defs>
+<rect x="150" y="0" width="900" height="170" fill="url(#q)"><animate attributeName="opacity" values="0.6;1;0.6" dur="12s" repeatCount="indefinite"/></rect>
+<text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#A78BFA" fill-opacity="0.5">“</text>
+<g text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="600" y="92" font-size="28" font-weight="600" letter-spacing="-0.6" fill="#F5F5F7">Bons produtos não precisam parecer complicados.</text>
+<text x="600" y="126" font-size="15" fill="#71717A">A tecnologia pode ser sofisticada por trás e extremamente simples para quem usa.</text></g>
+</svg>

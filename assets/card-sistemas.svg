@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" role="img" aria-labelledby="t d">
+<title id="t">Sistemas Web</title><desc id="d">Ferramentas personalizadas para operações e empresas.</desc>
+<defs><radialGradient id="cg" cx="0.1" cy="0.0" r="0.9"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.13"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<radialGradient id="cw" cx="1" cy="1" r="0.7"><stop offset="0" stop-color="#E7DCCB" stop-opacity="0.05"/><stop offset="1" stop-color="#E7DCCB" stop-opacity="0"/></radialGradient>
+<clipPath id="cp"><rect width="580" height="190" rx="18"/></clipPath></defs>
+<g clip-path="url(#cp)"><rect width="580" height="190" fill="#111116"/><rect width="580" height="190" fill="url(#cg)"><animate attributeName="opacity" values="0.7;1;0.7" dur="12s" repeatCount="indefinite"/></rect><rect width="580" height="190" fill="url(#cw)"/></g>
+<g transform="translate(36,30)"><g fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linejoin="round"><rect x="4" y="4" width="18" height="18" rx="4"/><rect x="26" y="4" width="18" height="12" rx="4"/><rect x="4" y="26" width="18" height="12" rx="4"/><rect x="26" y="20" width="18" height="24" rx="4" fill="#A78BFA" fill-opacity="0.12"><animate attributeName="fill-opacity" values="0.05;0.25;0.05" dur="9s" repeatCount="indefinite"/></rect></g></g>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="36" y="118" font-size="22" font-weight="600" fill="#F5F5F7" letter-spacing="-0.3">Sistemas Web</text>
+<text x="36" y="146" font-size="14" fill="#A1A1AA">Ferramentas personalizadas para operações e empresas.</text>
+<text x="36" y="168" font-size="12" fill="#71717A">Painéis administrativos · Gestão · Relatórios · Sistemas internos</text></g><rect x="0.5" y="0.5" width="579" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" role="img" aria-labelledby="t d">
+<title id="t">Websites</title><desc id="d">Landing pages, sites institucionais e experiências digitais.</desc>
+<defs><radialGradient id="cg" cx="0.1" cy="0.0" r="0.9"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.13"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<radialGradient id="cw" cx="1" cy="1" r="0.7"><stop offset="0" stop-color="#E7DCCB" stop-opacity="0.05"/><stop offset="1" stop-color="#E7DCCB" stop-opacity="0"/></radialGradient>
+<clipPath id="cp"><rect width="580" height="190" rx="18"/></clipPath></defs>
+<g clip-path="url(#cp)"><rect width="580" height="190" fill="#111116"/><rect width="580" height="190" fill="url(#cg)"><animate attributeName="opacity" values="0.7;1;0.7" dur="12s" repeatCount="indefinite"/></rect><rect width="580" height="190" fill="url(#cw)"/></g>
+<g transform="translate(36,30)"><g fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="44" height="34" rx="7"/><path d="M2 17H46"/></g>
+<circle cx="9" cy="12" r="1.3" fill="#D8B4FE"/><circle cx="14" cy="12" r="1.3" fill="#71717A"/><circle cx="19" cy="12" r="1.3" fill="#71717A"/>
+<rect x="9" y="24" width="18" height="3" rx="1.5" fill="#D8B4FE" opacity="0.6"><animate attributeName="width" values="18;30;18" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect>
+<rect x="9" y="31" width="28" height="3" rx="1.5" fill="#A1A1AA" opacity="0.35"/></g>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="36" y="118" font-size="22" font-weight="600" fill="#F5F5F7" letter-spacing="-0.3">Websites</text>
+<text x="36" y="146" font-size="14" fill="#A1A1AA">Landing pages, sites institucionais e experiências digitais.</text>
+<text x="36" y="168" font-size="12" fill="#71717A">Design · Performance · Responsividade · SEO · Conversão</text></g><rect x="0.5" y="0.5" width="579" height="189" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>
