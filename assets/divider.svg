@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="Divisor">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#F5F5F7" stop-opacity="0"/>
+      <stop offset="0.3"  stop-color="#F5F5F7" stop-opacity="0.10"/>
+      <stop offset="0.5"  stop-color="#A78BFA" stop-opacity="0.35"/>
+      <stop offset="0.7"  stop-color="#F5F5F7" stop-opacity="0.10"/>
+      <stop offset="1"    stop-color="#F5F5F7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="23.5" width="1040" height="1" fill="url(#line)"/>
+  <circle cx="600" cy="24" r="4" fill="none" stroke="#A78BFA" stroke-opacity="0.4">
+    <animate attributeName="r" values="3;11;3" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.45;0;0.45" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="24" r="2.2" fill="#D8B4FE"/>
+</svg>
