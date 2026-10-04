@@ -114,10 +114,8 @@ O objetivo é sempre o mesmo: **criar algo que funcione bem, seja fácil de usar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kauassnt&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=A1A1AA&hide_title=true&card_width=420" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauassnt&layout=compact&hide_border=true&bg_color=00000000&text_color=A1A1AA&hide_title=true&card_width=300" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=kauassnt&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A1A1AA&sideLabels=71717A&currStreakNum=A1A1AA&sideNums=A1A1AA&dates=71717A" width="70%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kauassnt&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&border_radius=18&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=A1A1AA" height="150" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=kauassnt&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=18&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A1A1AA&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=71717A" height="150" alt="GitHub streak"/>
 
 </div>
 
